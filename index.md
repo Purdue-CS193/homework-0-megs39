@@ -1,3 +1,7 @@
+#Megha's First CS193 Homework
+- Love the instructor, she's fun! (def not the mic tho)
+- I find the class very helpful, since I don't have a lot of prior CS experience.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
